@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/suenwl/ehr-diabetes-alert-demo/precache-manifest.65184cbc5b704360ecef9607ef847a15.js"
+  "/ehr-diabetes-alert-demo/precache-manifest.557615d5cc7b08ba1c4ff00ceebf3dc9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/suenwl/ehr-diabetes-alert-demo/index.html", {
+workbox.routing.registerNavigationRoute("/ehr-diabetes-alert-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
