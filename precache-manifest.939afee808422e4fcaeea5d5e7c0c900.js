@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ehr-diabetes-alert-demo/static/css/2.b1e39f4a.chunk.css"
   },
   {
-    "revision": "683c90a74d802ef48533f7aceec3f1ee",
+    "revision": "537eee19186709d64ed1e489ef4aaa79",
     "url": "/ehr-diabetes-alert-demo/index.html"
   }
 ];

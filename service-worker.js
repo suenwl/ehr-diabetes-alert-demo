@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ehr-diabetes-alert-demo/precache-manifest.557615d5cc7b08ba1c4ff00ceebf3dc9.js"
+  "/ehr-diabetes-alert-demo/precache-manifest.939afee808422e4fcaeea5d5e7c0c900.js"
 );
 
 workbox.clientsClaim();
